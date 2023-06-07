@@ -1,8 +1,8 @@
-# 50-day-50-products
-50 Days Challange
+# 50-day-50-products #
+## 50 Days Challange ##
 
-Product - 1
-  --Expanding Cards
-Product - 2
-  --Progress Steps
+### Product - 1 ###  
+  * __Expanding Cards__  
+### Product - 2 ###  
+ * __Progress Steps__  
  
