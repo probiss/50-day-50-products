@@ -7,3 +7,5 @@
  * __Progress Steps__  
 ### Product - 3 ###  
  * __Rotating Navigation__  
+### Product - 4 ###  
+ * __Hidden Search__  
