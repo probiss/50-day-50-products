@@ -13,3 +13,5 @@
  * __Blurry Loading__  
 ### Product - 6 ###  
  * __Scroll Animation__  
+### Product - 7 ###  
+ * __Split Landing Page__  
