@@ -48,6 +48,8 @@
 ### Product - 23 ###  
  * __Kinetic Loader__
 ### Product - 24 ###  
- * __Content Placeholder__ 
+ * __Content Placeholder__
+### Product - 25 ###  
+ * __Sticky Navigation__  
 
 
