@@ -1,4 +1,4 @@
-# 50-day-50-products #
+ # 50-day-50-products #
 ## 50 Days Challange ##
 
 ### Product - 1 ###  
@@ -50,6 +50,9 @@
 ### Product - 24 ###  
  * __Content Placeholder__
 ### Product - 25 ###  
- * __Sticky Navigation__  
+ * __Sticky Navigation__
+### Product - 26 ###  
+ * __Vertical Slider__  
+
 
 
