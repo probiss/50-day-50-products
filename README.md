@@ -53,6 +53,5 @@
  * __Sticky Navigation__
 ### Product - 26 ###  
  * __Vertical Slider__  
-
-
-
+### Product - 27 ###  
+ * __Toast Notification__  
