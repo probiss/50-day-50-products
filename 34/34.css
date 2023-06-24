@@ -11,6 +11,12 @@ body {
     margin: 0;
 }
 
+h4 {
+    font-size: 20px;
+    margin: 5px;
+    text-transform: uppercase;
+}
+
 .counter {
     position: fixed;
     top: 50%;
@@ -39,6 +45,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
+    text-align: center;
 }
 
 .final.show {
@@ -73,7 +80,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%) rotate(120deg);
+    transform: translate(-50%, -50%) rotate(125deg);
     transform-origin: bottom center;
 }
 
@@ -116,4 +123,41 @@ body {
     100% {
         transform: translate(-50%, -50%) rotate(-120deg);
     }
+}
+
+#replay {
+    background-color: #3498db;
+    border-radius: 3px;
+    border: none;
+    color: aliceblue;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+#replay span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.3s;
+}
+
+#replay span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+}
+
+#replay:hover span {
+    padding-right: 25px;
+}
+
+#replay:hover span:after {
+    opacity: 1;
+    right: 0;
 }
