@@ -77,3 +77,5 @@
  * __Pokedex__  
 ### Product - 38 ###  
  * __Mobile Tab Navigation__  
+### Product - 39 ###  
+ * __Password Strength Background__  
