@@ -21,6 +21,9 @@ h1 {
     font-size: 10rem;
     text-align: center;
     opacity: 0.4;
+    margin: 0;
+    top: 40px;
+    position: absolute;
 }
 
 form {
@@ -66,7 +69,10 @@ form {
 }
 
 small {
-    color: #b5b5b5;
-    margin-top: 3rem;
+    background-color: rgba(179, 131, 226, 0.45);
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    margin-bottom: 3rem;
     text-align: center;
 }
