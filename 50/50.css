@@ -129,7 +129,7 @@ h1 {
 }
 
 .insect {
-    cursor: pointer;
+    cursor: grabbing;
     display: flex;
     align-items: center;
     justify-content: center;
